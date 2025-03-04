@@ -10,5 +10,5 @@ This is a simple project to demonstrate Git commands, branching, and Markdown us
 ## 🔥 Getting Started   
 Clone this repository to your local machine:  
 ```sh
-git clone https://github.com/Vitamilk11/README.md
+git clone https://github.com/Vitamilk11/Markdown.git
 cd README.md
